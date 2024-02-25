@@ -19,7 +19,6 @@ body {
 
 .grid {
   display: grid;
-
   grid-gap: 64px;
 }
 
@@ -38,6 +37,10 @@ body {
 .embed {
   width: 100%;
   aspect-ratio: 1 / 1;
+}
+
+.instagram-embed {
+  margin: 30px 0;
 }
 
 .card {
